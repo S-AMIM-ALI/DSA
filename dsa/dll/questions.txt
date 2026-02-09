@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+# DLL + Edge Cases (FAANG loves these)
+
+
+
+# Remove duplicates from an unsorted DLL
+
+# Check if a DLL is a palindrome
+
+# Merge two sorted DLLs
+
+# Split a DLL into two halves
+
+# DLL + Algorithms (medium → hard)
+
+# Reverse DLL in groups of k
+
+# Sort a DLL using merge sort
+
+# Find pairs with a given sum in a sorted DLL
+
+# Find triplets with a given sum in a DLL
+
+# Flatten a multilevel doubly linked list
