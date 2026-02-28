@@ -1,0 +1,126 @@
+Create a circular singly linked list.
+Insert at:Beginning,End,Given position,Delete:Head,Tail
+Given value
+Count nodes in CLL.
+Search an element in CLL.
+Detect if a linked list is circular.
+Convert a normal singly list into circular list.
+Display CLL without infinite loop.
+-------------------
+Split a circular linked list into two halves.
+
+Split into even and odd positioned nodes.
+
+Insert into a sorted circular linked list.
+
+Delete every K-th node.
+
+Find the middle node of CLL.
+
+Check if CLL is palindrome.
+
+Reverse a circular singly linked list.
+
+Rotate a circular linked list by K nodes.
+
+Find length of loop in circular list.
+
+Merge two circular linked lists.
+
+Remove duplicates from sorted CLL.
+
+Find last surviving node (Josephus problem).
+-----------------------------------
+Josephus problem optimized O(n).
+
+Clone a circular list with random pointer.
+
+Detect and remove cycle in a modified CLL.
+
+Flatten multiple circular linked lists.
+
+Find intersection point of two circular lists.
+
+Implement round-robin scheduling using CLL.
+
+Design music playlist using CLL.
+
+Insert multiple nodes at given indices efficiently.
+
+Convert CLL to array and vice versa.
+
+Partition circular list around a value (like QuickSort pivot).
+----------------------------------
+cdll
+Basic Level
+
+Create CDLL.
+
+Insert at:
+
+Beginning
+
+End
+
+Given position
+
+Delete:
+
+Head
+
+Tail
+
+Given node
+
+Traverse forward and backward.
+
+Count nodes.
+
+Search element.
+------------
+Reverse a CDLL in-place.
+
+Split CDLL into two halves.
+
+Insert in sorted CDLL.
+
+Delete node in O(1) if pointer is given.
+
+Check if CDLL is palindrome.
+
+Rotate CDLL by K nodes.
+
+Merge two sorted CDLLs.
+
+Remove duplicates.
+
+Swap two nodes without swapping data.
+
+Find middle of CDLL.
+
+Check if CDLL is circular properly (head.prev == tail).
+Convert Binary Tree to Circular Doubly Linked List (Inorder).
+
+Convert BST to CDLL (sorted order).
+
+Implement LRU Cache using Doubly Linked List (can adapt to circular).
+
+Clone CDLL with random pointer.
+
+Flatten multi-level circular doubly linked list.
+
+Design browser history using CDLL.
+
+Design Undo/Redo system using CDLL.
+
+Implement Deque using CDLL.
+
+Design task scheduler using CDLL.
+
+Implement circular deque.
+
+Merge K circular doubly linked lists.
+
+Detect corruption in circular DLL.
+
+Convert CDLL to balanced BST.
